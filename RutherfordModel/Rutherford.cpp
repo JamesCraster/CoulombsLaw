@@ -2,7 +2,6 @@
 
 #include <SFML/Audio.hpp>
 #include <SFML/Graphics.hpp>
-#include "ResourcePath.hpp"
 #include <cmath>
 #include <iostream>
 #include <iomanip>
